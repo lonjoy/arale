@@ -35,5 +35,5 @@
 
 ### 大纲
 
-[链接到](./outline.md)
+[链接到](https://github.com/wd-tutorials/arale/blob/master/outline.md)
 
